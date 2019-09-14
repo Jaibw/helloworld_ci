@@ -1,3 +1,3 @@
 # helloworld_ci
 
-make all
+bash build.sh
