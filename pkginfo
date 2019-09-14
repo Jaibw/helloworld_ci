@@ -2,7 +2,8 @@ Package: helloworld
 Version: versionnumber
 Section: base
 Priority: optional
-Architecture: i386
+Architecture: all
 Maintainer: Jai <jai.unix@gmail.com>
 Description: Hello World
  small program!
+ 
